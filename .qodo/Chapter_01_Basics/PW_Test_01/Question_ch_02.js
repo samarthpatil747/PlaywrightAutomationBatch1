@@ -1,4 +1,4 @@
-let results = ["fail", "pass", "pass","fail", "pass", "pass","pass","skip"];
+let results = ["pass", "pass", "fail", "pass", "skip", "pass", "fail", "pass"];
 let passTests = 0;
 let failTests = 0;
 let skippedTests = 0;
@@ -17,16 +17,17 @@ for(let i=0; i<results.length; i++)
     }
     console.log("Total Test report summary:");
     console.log("Total tests: " + results.length);
-    console.log("Passed tests: " + passTests);
-    console.log("Failed tests: " + failTests);
-    console.log("Skipped tests: " + skippedTests);
+    console.log("Passed: " + passTests);
+    console.log("Failed: " + failTests);
+    console.log("Skipped: " + skippedTests);
+    console.log("Pass Rate: " + ((passTests/results.length)*100).toFixed(2) + " %");
 
-    console.log("Overall release status:");
+    console.log("VERDICT:");
     if (passTests == results.length) {
         console.log("Ready for release");
     } else if(failTests<=2){
-        console.log("review");
+        console.log("review before release");
     } else if(failTests>=2){
-        console.log("block");
+        console.log("block release");
     }
     
