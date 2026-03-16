@@ -1,5 +1,5 @@
 {
-  "name": "PlaywrightAutomationBatch1",
+  "name": "playwrightautomationbatch1",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -7,5 +7,25 @@
   },
   "devDependencies": {
     "@playwright/test": "^1.36.0"
-  }
+  },
+  "dependencies": {
+    "@playwright/cli": "^0.1.1"
+  },
+  "description": "Example Playwright project scaffold for PlaywrightAutomationBatch1.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samarthpatil747/PlaywrightAutomationBatch1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/samarthpatil747/PlaywrightAutomationBatch1/issues"
+  },
+  "homepage": "https://github.com/samarthpatil747/PlaywrightAutomationBatch1#readme"
 }

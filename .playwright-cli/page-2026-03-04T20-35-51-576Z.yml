@@ -1,0 +1,664 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - button "Dismiss banner" [ref=e4] [cursor=pointer]:
+      - img [ref=e5]
+    - generic [ref=e8]:
+      - generic [ref=e9]: LIVE
+      - generic [ref=e11]: 🚀 AI Tester Blueprint
+      - generic [ref=e12]: Few Slots Left!
+      - generic [ref=e13]: "|"
+      - generic [ref=e14]: Sat & Sun, 8:30 AM IST
+      - generic [ref=e15]: "|"
+      - generic [ref=e16]:
+        - generic [ref=e17]: ₹15,000
+        - generic [ref=e18]: ₹9,999
+        - generic [ref=e19]: 33% OFF
+      - generic [ref=e20]:
+        - img [ref=e21]
+        - text: "Code:"
+        - generic [ref=e23]: AITESTER
+      - generic [ref=e24]:
+        - button "Join" [ref=e25] [cursor=pointer]:
+          - img [ref=e26]
+          - text: Join
+        - link "Chat on WhatsApp" [ref=e31] [cursor=pointer]:
+          - /url: https://sdet.live/WhatsApp
+          - img [ref=e32]
+        - generic [ref=e34]:
+          - button "View announcement 1" [ref=e35] [cursor=pointer]
+          - button "View announcement 2" [ref=e36] [cursor=pointer]
+  - generic [ref=e37]:
+    - navigation [ref=e38]:
+      - generic [ref=e39]:
+        - link "SDET Blueprint" [ref=e40] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e41]: SDET Blueprint
+        - generic [ref=e42]:
+          - generic [ref=e43]:
+            - link "Home" [ref=e44] [cursor=pointer]:
+              - /url: /
+            - link "About" [ref=e45] [cursor=pointer]:
+              - /url: /about
+            - link "FAQ" [ref=e46] [cursor=pointer]:
+              - /url: /faq
+          - generic [ref=e47]:
+            - link "Login" [ref=e48] [cursor=pointer]:
+              - /url: /login
+              - button "Login" [ref=e49]:
+                - img
+                - generic [ref=e50]: Login
+            - link "Sign Up" [ref=e51] [cursor=pointer]:
+              - /url: /register
+              - button "Sign Up" [ref=e52]:
+                - img
+                - generic [ref=e53]: Sign Up
+    - banner [ref=e54]:
+      - generic [ref=e58]:
+        - generic [ref=e59]:
+          - generic [ref=e60]:
+            - img [ref=e61]
+            - text: Manual → Automation
+          - generic [ref=e63]:
+            - img [ref=e64]
+            - text: Fresher → Expert
+          - generic [ref=e66]:
+            - img [ref=e67]
+            - text: Any Background → SDET
+        - 'heading "Transform Your Career: Manual to Automation in 100 Days" [level=1] [ref=e69]':
+          - text: "Transform Your Career:"
+          - generic [ref=e70]: Manual to Automation
+          - text: in 100 Days
+        - paragraph [ref=e71]: The complete SDET Blueprint with 100-Day Challenge, live assessments, interactive coding, GitHub portfolio building, and resume optimization. Everything you need to transform your career and become a job-ready automation testing professional.
+        - generic [ref=e72]:
+          - generic [ref=e73]:
+            - generic [ref=e74]: 0+
+            - generic [ref=e75]: Career Transformations
+          - generic [ref=e76]:
+            - generic [ref=e77]: 85%
+            - generic [ref=e78]: Job Placement Rate
+          - generic [ref=e79]:
+            - generic [ref=e80]: 180%
+            - generic [ref=e81]: Average Salary Increase
+          - generic [ref=e82]:
+            - generic [ref=e83]: "100"
+            - generic [ref=e84]: Days to Transform
+        - generic [ref=e85]:
+          - link "Start Your 100-Day Transformation" [ref=e86] [cursor=pointer]:
+            - /url: /register
+            - text: Start Your 100-Day Transformation
+            - img
+          - link "Take Skill Assessment" [ref=e87] [cursor=pointer]:
+            - /url: /student/live-test
+            - img
+            - text: Take Skill Assessment
+        - generic [ref=e88]:
+          - generic [ref=e89]:
+            - img [ref=e90]
+            - generic [ref=e94]: 100-Day Challenge
+          - generic [ref=e95]:
+            - img [ref=e96]
+            - generic [ref=e98]: Live Assessments
+          - generic [ref=e99]:
+            - img [ref=e100]
+            - generic [ref=e103]: Interactive Coding
+          - generic [ref=e104]:
+            - img [ref=e105]
+            - generic [ref=e109]: Resume Scorecard
+          - generic [ref=e110]:
+            - img [ref=e111]
+            - generic [ref=e114]: Portfolio Building
+    - generic [ref=e116]:
+      - generic [ref=e117]:
+        - heading "The SDET Blueprint Methodology" [level=2] [ref=e118]
+        - paragraph [ref=e119]: Our proven 5-step system that transforms any background into automation testing expertise. Each step builds upon the previous, ensuring comprehensive skill development.
+      - generic [ref=e120]:
+        - generic [ref=e121]:
+          - generic [ref=e122]:
+            - img [ref=e124]
+            - generic [ref=e127]: ASSESS
+          - generic [ref=e130]:
+            - heading "Assess Your Current Skills" [level=3] [ref=e131]
+            - paragraph [ref=e132]: Take live assessments to identify your starting point and skill gaps
+            - generic [ref=e133]:
+              - generic [ref=e135]:
+                - img [ref=e136]
+                - generic [ref=e139]: 130+ Java & Testing Questions
+              - generic [ref=e141]:
+                - img [ref=e142]
+                - generic [ref=e145]: Real-time Evaluation
+              - generic [ref=e147]:
+                - img [ref=e148]
+                - generic [ref=e151]: Skill Gap Analysis
+        - generic [ref=e152]:
+          - generic [ref=e153]:
+            - img [ref=e155]
+            - generic [ref=e158]: LEARN
+          - generic [ref=e161]:
+            - heading "Follow Structured Learning Path" [level=3] [ref=e162]
+            - paragraph [ref=e163]: 100-Day Challenge with daily tasks designed for career transformation
+            - generic [ref=e164]:
+              - generic [ref=e166]:
+                - img [ref=e167]
+                - generic [ref=e170]: Daily Learning Tasks
+              - generic [ref=e172]:
+                - img [ref=e173]
+                - generic [ref=e176]: Progressive Difficulty
+              - generic [ref=e178]:
+                - img [ref=e179]
+                - generic [ref=e182]: Industry-Focused Content
+        - generic [ref=e183]:
+          - generic [ref=e184]:
+            - img [ref=e186]
+            - generic [ref=e190]: CODE
+          - generic [ref=e193]:
+            - heading "Practice with Live Coding" [level=3] [ref=e194]
+            - paragraph [ref=e195]: Build automation frameworks in our interactive Java environment
+            - generic [ref=e196]:
+              - generic [ref=e198]:
+                - img [ref=e199]
+                - generic [ref=e202]: Real-time Code Execution
+              - generic [ref=e204]:
+                - img [ref=e205]
+                - generic [ref=e208]: Project-Based Learning
+              - generic [ref=e210]:
+                - img [ref=e211]
+                - generic [ref=e214]: Framework Development
+        - generic [ref=e215]:
+          - generic [ref=e216]:
+            - img [ref=e218]
+            - generic [ref=e221]: TRACK
+          - generic [ref=e224]:
+            - heading "Monitor Your Progress" [level=3] [ref=e225]
+            - paragraph [ref=e226]: Visual progress tracking and GitHub portfolio building
+            - generic [ref=e227]:
+              - generic [ref=e229]:
+                - img [ref=e230]
+                - generic [ref=e233]: Learning Calendar
+              - generic [ref=e235]:
+                - img [ref=e236]
+                - generic [ref=e239]: GitHub Integration
+              - generic [ref=e241]:
+                - img [ref=e242]
+                - generic [ref=e245]: Portfolio Development
+        - generic [ref=e246]:
+          - generic [ref=e247]:
+            - img [ref=e249]
+            - generic [ref=e253]: APPLY
+          - generic [ref=e256]:
+            - heading "Become Job-Ready" [level=3] [ref=e257]
+            - paragraph [ref=e258]: Resume optimization and interview preparation for SDET roles
+            - generic [ref=e259]:
+              - generic [ref=e261]:
+                - img [ref=e262]
+                - generic [ref=e265]: Resume Scorecard
+              - generic [ref=e267]:
+                - img [ref=e268]
+                - generic [ref=e271]: Interview Prep
+              - generic [ref=e273]:
+                - img [ref=e274]
+                - generic [ref=e277]: Job Application Support
+    - generic [ref=e279]:
+      - generic [ref=e280]:
+        - heading "Platform Features That Transform Careers" [level=2] [ref=e281]
+        - paragraph [ref=e282]: Each feature is designed to address specific career transformation needs - from skill building to portfolio development to job application success.
+      - generic [ref=e283]:
+        - generic [ref=e284]:
+          - generic [ref=e285]:
+            - img [ref=e287]
+            - heading "Live Assessment System" [level=3] [ref=e289]
+            - paragraph [ref=e290]: Prove your skills to employers with industry-standard evaluations
+          - generic [ref=e291]:
+            - paragraph [ref=e292]: 130+ Java programming questions that mirror real SDET interviews. Build confidence through practice and showcase your abilities to potential employers.
+            - generic [ref=e293]:
+              - heading "Career Benefits:" [level=4] [ref=e294]
+              - generic [ref=e295]:
+                - img [ref=e296]
+                - generic [ref=e298]: Interview Confidence
+              - generic [ref=e299]:
+                - img [ref=e300]
+                - generic [ref=e302]: Skill Validation
+              - generic [ref=e303]:
+                - img [ref=e304]
+                - generic [ref=e306]: Employer Recognition
+            - link "Explore Feature" [ref=e307] [cursor=pointer]:
+              - /url: /student/live-test
+              - img
+              - text: Explore Feature
+        - generic [ref=e308]:
+          - generic [ref=e309]:
+            - img [ref=e311]
+            - heading "Interactive Coding Environment" [level=3] [ref=e314]
+            - paragraph [ref=e315]: Build automation frameworks that recruiters want to see
+          - generic [ref=e316]:
+            - paragraph [ref=e317]: Real Java IDE with instant compilation and execution. Create impressive automation projects that demonstrate your practical skills to hiring managers.
+            - generic [ref=e318]:
+              - heading "Career Benefits:" [level=4] [ref=e319]
+              - generic [ref=e320]:
+                - img [ref=e321]
+                - generic [ref=e323]: Portfolio Projects
+              - generic [ref=e324]:
+                - img [ref=e325]
+                - generic [ref=e327]: Technical Proficiency
+              - generic [ref=e328]:
+                - img [ref=e329]
+                - generic [ref=e331]: Real-world Experience
+            - link "Explore Feature" [ref=e332] [cursor=pointer]:
+              - /url: /student/livecoding
+              - img
+              - text: Explore Feature
+        - generic [ref=e333]:
+          - generic [ref=e334]:
+            - img [ref=e336]
+            - heading "Learning Progress Tracker" [level=3] [ref=e338]
+            - paragraph [ref=e339]: Document your transformation journey for interviews
+          - generic [ref=e340]:
+            - paragraph [ref=e341]: Visual calendar showing your daily learning activities. Perfect for demonstrating commitment and consistency to potential employers.
+            - generic [ref=e342]:
+              - heading "Career Benefits:" [level=4] [ref=e343]
+              - generic [ref=e344]:
+                - img [ref=e345]
+                - generic [ref=e347]: Learning Documentation
+              - generic [ref=e348]:
+                - img [ref=e349]
+                - generic [ref=e351]: Consistency Proof
+              - generic [ref=e352]:
+                - img [ref=e353]
+                - generic [ref=e355]: Interview Stories
+            - link "Explore Feature" [ref=e356] [cursor=pointer]:
+              - /url: /student/my-process
+              - img
+              - text: Explore Feature
+        - generic [ref=e357]:
+          - generic [ref=e358]:
+            - img [ref=e360]
+            - heading "100-Day Challenge" [level=3] [ref=e364]
+            - paragraph [ref=e365]: Structured transformation path from any background to SDET
+          - generic [ref=e366]:
+            - paragraph [ref=e367]: Carefully designed daily tasks that progressively build your automation testing skills. From basics to advanced frameworks in 100 days.
+            - generic [ref=e368]:
+              - heading "Career Benefits:" [level=4] [ref=e369]
+              - generic [ref=e370]:
+                - img [ref=e371]
+                - generic [ref=e373]: Structured Learning
+              - generic [ref=e374]:
+                - img [ref=e375]
+                - generic [ref=e377]: Skill Progression
+              - generic [ref=e378]:
+                - img [ref=e379]
+                - generic [ref=e381]: Career Transformation
+            - link "Explore Feature" [ref=e382] [cursor=pointer]:
+              - /url: /student/dashboard
+              - img
+              - text: Explore Feature
+        - generic [ref=e383]:
+          - generic [ref=e384]:
+            - img [ref=e386]
+            - heading "GitHub Portfolio Builder" [level=3] [ref=e389]
+            - paragraph [ref=e390]: Create an impressive automation testing portfolio
+          - generic [ref=e391]:
+            - paragraph [ref=e392]: Automatically track your coding progress and build a professional GitHub profile that showcases your automation testing projects.
+            - generic [ref=e393]:
+              - heading "Career Benefits:" [level=4] [ref=e394]
+              - generic [ref=e395]:
+                - img [ref=e396]
+                - generic [ref=e398]: Professional Portfolio
+              - generic [ref=e399]:
+                - img [ref=e400]
+                - generic [ref=e402]: Code Showcase
+              - generic [ref=e403]:
+                - img [ref=e404]
+                - generic [ref=e406]: Employer Visibility
+            - link "Explore Feature" [ref=e407] [cursor=pointer]:
+              - /url: /student/github
+              - img
+              - text: Explore Feature
+        - generic [ref=e408]:
+          - generic [ref=e409]:
+            - img [ref=e411]
+            - heading "Resume Scorecard" [level=3] [ref=e415]
+            - paragraph [ref=e416]: Optimize your resume for SDET roles
+          - generic [ref=e417]:
+            - paragraph [ref=e418]: AI-powered resume analysis and optimization specifically for automation testing positions. Get feedback on keywords, structure, and content.
+            - generic [ref=e419]:
+              - heading "Career Benefits:" [level=4] [ref=e420]
+              - generic [ref=e421]:
+                - img [ref=e422]
+                - generic [ref=e424]: ATS Optimization
+              - generic [ref=e425]:
+                - img [ref=e426]
+                - generic [ref=e428]: Keyword Analysis
+              - generic [ref=e429]:
+                - img [ref=e430]
+                - generic [ref=e432]: Interview Callbacks
+            - link "Explore Feature" [ref=e433] [cursor=pointer]:
+              - /url: /student/profile
+              - img
+              - text: Explore Feature
+    - generic [ref=e435]:
+      - generic [ref=e436]:
+        - heading "14-Week Skills Progression Timeline" [level=2] [ref=e437]
+        - paragraph [ref=e438]: See how each platform feature contributes to your transformation journey from beginner to job-ready professional.
+      - generic [ref=e439]:
+        - generic [ref=e440]:
+          - generic [ref=e441]:
+            - generic [ref=e442]: "1"
+            - generic [ref=e443]: Week 1-2
+          - generic [ref=e446]:
+            - heading "Foundation Building" [level=3] [ref=e447]
+            - paragraph [ref=e448]: "Expected Outcome: Programming Confidence"
+            - generic [ref=e449]:
+              - generic [ref=e450]:
+                - heading "Skills Developed" [level=4] [ref=e451]
+                - list [ref=e452]:
+                  - listitem [ref=e453]:
+                    - img [ref=e454]
+                    - text: Java Fundamentals
+                  - listitem [ref=e457]:
+                    - img [ref=e458]
+                    - text: Testing Concepts
+                  - listitem [ref=e461]:
+                    - img [ref=e462]
+                    - text: Environment Setup
+              - generic [ref=e465]:
+                - heading "Platform Features Used" [level=4] [ref=e466]
+                - list [ref=e467]:
+                  - listitem [ref=e468]:
+                    - img [ref=e469]
+                    - text: Live Coding Environment
+                  - listitem [ref=e471]:
+                    - img [ref=e472]
+                    - text: Basic Assessments
+        - generic [ref=e474]:
+          - generic [ref=e475]:
+            - generic [ref=e476]: "2"
+            - generic [ref=e477]: Week 3-5
+          - generic [ref=e480]:
+            - heading "Automation Introduction" [level=3] [ref=e481]
+            - paragraph [ref=e482]: "Expected Outcome: First Automation Scripts"
+            - generic [ref=e483]:
+              - generic [ref=e484]:
+                - heading "Skills Developed" [level=4] [ref=e485]
+                - list [ref=e486]:
+                  - listitem [ref=e487]:
+                    - img [ref=e488]
+                    - text: Selenium Basics
+                  - listitem [ref=e491]:
+                    - img [ref=e492]
+                    - text: WebDriver
+                  - listitem [ref=e495]:
+                    - img [ref=e496]
+                    - text: Element Identification
+              - generic [ref=e499]:
+                - heading "Platform Features Used" [level=4] [ref=e500]
+                - list [ref=e501]:
+                  - listitem [ref=e502]:
+                    - img [ref=e503]
+                    - text: Interactive Projects
+                  - listitem [ref=e505]:
+                    - img [ref=e506]
+                    - text: GitHub Setup
+        - generic [ref=e508]:
+          - generic [ref=e509]:
+            - generic [ref=e510]: "3"
+            - generic [ref=e511]: Week 6-8
+          - generic [ref=e514]:
+            - heading "Framework Development" [level=3] [ref=e515]
+            - paragraph [ref=e516]: "Expected Outcome: Professional Frameworks"
+            - generic [ref=e517]:
+              - generic [ref=e518]:
+                - heading "Skills Developed" [level=4] [ref=e519]
+                - list [ref=e520]:
+                  - listitem [ref=e521]:
+                    - img [ref=e522]
+                    - text: TestNG
+                  - listitem [ref=e525]:
+                    - img [ref=e526]
+                    - text: Page Object Model
+                  - listitem [ref=e529]:
+                    - img [ref=e530]
+                    - text: Data-Driven Testing
+              - generic [ref=e533]:
+                - heading "Platform Features Used" [level=4] [ref=e534]
+                - list [ref=e535]:
+                  - listitem [ref=e536]:
+                    - img [ref=e537]
+                    - text: Portfolio Building
+                  - listitem [ref=e539]:
+                    - img [ref=e540]
+                    - text: Progress Tracking
+        - generic [ref=e542]:
+          - generic [ref=e543]:
+            - generic [ref=e544]: "4"
+            - generic [ref=e545]: Week 9-12
+          - generic [ref=e548]:
+            - heading "Advanced Concepts" [level=3] [ref=e549]
+            - paragraph [ref=e550]: "Expected Outcome: Industry-Ready Skills"
+            - generic [ref=e551]:
+              - generic [ref=e552]:
+                - heading "Skills Developed" [level=4] [ref=e553]
+                - list [ref=e554]:
+                  - listitem [ref=e555]:
+                    - img [ref=e556]
+                    - text: CI/CD Integration
+                  - listitem [ref=e559]:
+                    - img [ref=e560]
+                    - text: API Testing
+                  - listitem [ref=e563]:
+                    - img [ref=e564]
+                    - text: Performance Testing
+              - generic [ref=e567]:
+                - heading "Platform Features Used" [level=4] [ref=e568]
+                - list [ref=e569]:
+                  - listitem [ref=e570]:
+                    - img [ref=e571]
+                    - text: Advanced Assessments
+                  - listitem [ref=e573]:
+                    - img [ref=e574]
+                    - text: Resume Building
+        - generic [ref=e576]:
+          - generic [ref=e577]:
+            - generic [ref=e578]: "5"
+            - generic [ref=e579]: Week 13-14
+          - generic [ref=e582]:
+            - heading "Job Preparation" [level=3] [ref=e583]
+            - paragraph [ref=e584]: "Expected Outcome: Job-Ready Professional"
+            - generic [ref=e585]:
+              - generic [ref=e586]:
+                - heading "Skills Developed" [level=4] [ref=e587]
+                - list [ref=e588]:
+                  - listitem [ref=e589]:
+                    - img [ref=e590]
+                    - text: Interview Skills
+                  - listitem [ref=e593]:
+                    - img [ref=e594]
+                    - text: Portfolio Polish
+                  - listitem [ref=e597]:
+                    - img [ref=e598]
+                    - text: Application Strategy
+              - generic [ref=e601]:
+                - heading "Platform Features Used" [level=4] [ref=e602]
+                - list [ref=e603]:
+                  - listitem [ref=e604]:
+                    - img [ref=e605]
+                    - text: Resume Scorecard
+                  - listitem [ref=e607]:
+                    - img [ref=e608]
+                    - text: Mock Interviews
+    - generic [ref=e611]:
+      - generic [ref=e612]:
+        - heading "Real Career Transformation Success Stories" [level=2] [ref=e613]
+        - paragraph [ref=e614]: See how our platform features helped these professionals completely transform their careers and land their dream SDET roles.
+      - generic [ref=e615]:
+        - generic [ref=e616]:
+          - generic [ref=e617]:
+            - generic [ref=e618]:
+              - img "Priya Sharma" [ref=e619]
+              - generic [ref=e620]:
+                - heading "Priya Sharma" [level=4] [ref=e621]
+                - paragraph [ref=e622]: Senior SDET at Amazon
+            - generic [ref=e624]:
+              - generic [ref=e625]: Career Transformation
+              - generic [ref=e626]: Manual → Automation
+              - img [ref=e627]
+              - generic [ref=e629]: 85 Days Journey
+          - generic [ref=e630]:
+            - paragraph [ref=e631]: "\"The 100-Day Challenge completely transformed my career. From manual testing to building automation frameworks - the live coding environment made all the difference!\""
+            - generic [ref=e632]:
+              - generic [ref=e633]:
+                - generic [ref=e634]: 180%
+                - generic [ref=e635]: Salary Increase
+              - generic [ref=e636]:
+                - generic [ref=e637]: "8"
+                - generic [ref=e638]: Portfolio Projects
+              - generic [ref=e639]:
+                - generic [ref=e640]: 92%
+                - generic [ref=e641]: Assessment Score
+            - generic [ref=e642]:
+              - heading "Key Platform Features Used:" [level=5] [ref=e643]
+              - generic [ref=e644]:
+                - generic [ref=e645]: Live Coding Environment
+                - generic [ref=e646]: GitHub Integration
+                - generic [ref=e647]: Assessment Practice
+        - generic [ref=e648]:
+          - generic [ref=e649]:
+            - generic [ref=e650]:
+              - img "Rajesh Kumar" [ref=e651]
+              - generic [ref=e652]:
+                - heading "Rajesh Kumar" [level=4] [ref=e653]
+                - paragraph [ref=e654]: Automation Lead at Microsoft
+            - generic [ref=e656]:
+              - generic [ref=e657]: Career Transformation
+              - generic [ref=e658]: Fresher → Lead
+              - img [ref=e659]
+              - generic [ref=e661]: 95 Days Journey
+          - generic [ref=e662]:
+            - paragraph [ref=e663]: "\"Started with zero industry experience. The structured learning path and progress tracking helped me land my dream job at Microsoft!\""
+            - generic [ref=e664]:
+              - generic [ref=e665]:
+                - generic [ref=e666]: 220%
+                - generic [ref=e667]: Salary Increase
+              - generic [ref=e668]:
+                - generic [ref=e669]: "12"
+                - generic [ref=e670]: Portfolio Projects
+              - generic [ref=e671]:
+                - generic [ref=e672]: 96%
+                - generic [ref=e673]: Assessment Score
+            - generic [ref=e674]:
+              - heading "Key Platform Features Used:" [level=5] [ref=e675]
+              - generic [ref=e676]:
+                - generic [ref=e677]: 100-Day Challenge
+                - generic [ref=e678]: Progress Tracking
+                - generic [ref=e679]: Resume Scorecard
+        - generic [ref=e680]:
+          - generic [ref=e681]:
+            - generic [ref=e682]:
+              - img "Sneha Patel" [ref=e683]
+              - generic [ref=e684]:
+                - heading "Sneha Patel" [level=4] [ref=e685]
+                - paragraph [ref=e686]: QA Automation Engineer at Google
+            - generic [ref=e688]:
+              - generic [ref=e689]: Career Transformation
+              - generic [ref=e690]: Non-Technical → Technical
+              - img [ref=e691]
+              - generic [ref=e693]: 110 Days Journey
+          - generic [ref=e694]:
+            - paragraph [ref=e695]: "\"I had no programming background but the interactive coding environment and daily challenges made learning enjoyable and achievable!\""
+            - generic [ref=e696]:
+              - generic [ref=e697]:
+                - generic [ref=e698]: 250%
+                - generic [ref=e699]: Salary Increase
+              - generic [ref=e700]:
+                - generic [ref=e701]: "6"
+                - generic [ref=e702]: Portfolio Projects
+              - generic [ref=e703]:
+                - generic [ref=e704]: 88%
+                - generic [ref=e705]: Assessment Score
+            - generic [ref=e706]:
+              - heading "Key Platform Features Used:" [level=5] [ref=e707]
+              - generic [ref=e708]:
+                - generic [ref=e709]: Interactive Coding
+                - generic [ref=e710]: Daily Challenges
+                - generic [ref=e711]: Skill Assessments
+    - generic [ref=e715]:
+      - heading "Ready to Transform Your Career in 100 Days?" [level=2] [ref=e716]
+      - paragraph [ref=e717]: Join thousands of professionals who transformed their careers using our complete SDET Blueprint. From any background to automation expert - your transformation starts today.
+      - link "Start 100-Day Challenge" [ref=e719] [cursor=pointer]:
+        - /url: /register
+        - img
+        - text: Start 100-Day Challenge
+      - generic [ref=e720]:
+        - generic [ref=e721]:
+          - img [ref=e722]
+          - generic [ref=e724]: 100% Career Focused
+        - generic [ref=e725]:
+          - img [ref=e726]
+          - generic [ref=e729]: 85% Job Placement Rate
+        - generic [ref=e730]:
+          - img [ref=e731]
+          - generic [ref=e734]: 180% Average Salary Increase
+        - generic [ref=e735]:
+          - img [ref=e736]
+          - generic [ref=e741]: 100 Days to Transform
+    - contentinfo [ref=e742]:
+      - generic [ref=e743]:
+        - generic [ref=e744]:
+          - generic [ref=e745]:
+            - heading "SDET Blueprint" [level=3] [ref=e746]
+            - paragraph [ref=e747]: The complete career transformation platform for automation testing. From any background to SDET professional in 100 days with live assessments, interactive coding, and comprehensive job preparation.
+            - generic [ref=e748]:
+              - link [ref=e749] [cursor=pointer]:
+                - /url: "#"
+                - img [ref=e750]
+              - link [ref=e753] [cursor=pointer]:
+                - /url: "#"
+                - img [ref=e754]
+              - link [ref=e757] [cursor=pointer]:
+                - /url: "#"
+                - img [ref=e758]
+          - generic [ref=e760]:
+            - heading "Career Features" [level=4] [ref=e761]
+            - list [ref=e762]:
+              - listitem [ref=e763]:
+                - link "100-Day Challenge" [ref=e764] [cursor=pointer]:
+                  - /url: /student/dashboard
+              - listitem [ref=e765]:
+                - link "Live Assessments" [ref=e766] [cursor=pointer]:
+                  - /url: /student/live-test
+              - listitem [ref=e767]:
+                - link "Interactive Coding" [ref=e768] [cursor=pointer]:
+                  - /url: /student/livecoding
+              - listitem [ref=e769]:
+                - link "Progress Tracking" [ref=e770] [cursor=pointer]:
+                  - /url: /student/my-process
+              - listitem [ref=e771]:
+                - link "Portfolio Building" [ref=e772] [cursor=pointer]:
+                  - /url: /student/github
+              - listitem [ref=e773]:
+                - link "Resume Scorecard" [ref=e774] [cursor=pointer]:
+                  - /url: /student/profile
+          - generic [ref=e775]:
+            - heading "Company" [level=4] [ref=e776]
+            - list [ref=e777]:
+              - listitem [ref=e778]:
+                - link "About Us" [ref=e779] [cursor=pointer]:
+                  - /url: /about
+              - listitem [ref=e780]:
+                - link "FAQ" [ref=e781] [cursor=pointer]:
+                  - /url: /faq
+              - listitem [ref=e782]:
+                - link "Support" [ref=e783] [cursor=pointer]:
+                  - /url: /student/help
+              - listitem [ref=e784]:
+                - link "Contact" [ref=e785] [cursor=pointer]:
+                  - /url: mailto:support@sdetblueprint.com
+        - generic [ref=e787]:
+          - paragraph [ref=e788]: © 2024 SDET Blueprint. All rights reserved.
+          - generic [ref=e789]:
+            - link "Privacy Policy" [ref=e790] [cursor=pointer]:
+              - /url: /privacy
+            - link "Terms of Service" [ref=e791] [cursor=pointer]:
+              - /url: /terms
+            - link "Refund Policy" [ref=e792] [cursor=pointer]:
+              - /url: /refund-policy
+  - button "Chat with support on WhatsApp" [ref=e793] [cursor=pointer]:
+    - img
